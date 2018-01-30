@@ -1,0 +1,32 @@
+{
+  "name": "universal_id",
+  "version": "1.0.0",
+  "description": "ui automation for universal id",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://abol0001@stash.synchronoss.net/scm/uisp/uid-protractor-uiautomation.git"
+  },
+  "author": "abiodun bolujo",
+  "license": "ISC",
+  "devDependencies": {
+    "browserstack-local": "^1.3.0",
+    "firefox-profile": "^0.4.8",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-protractor-runner": "^4.0.0",
+    "grunt-shell-spawn": "^0.3.10",
+    "jasmine-bamboo-reporter": "0.0.2",
+    "jasmine-fail-fast": "^2.0.0",
+    "jasmine-spec-reporter": "^3.2.0",
+    "protractor": "^5.1.1",
+    "protractor-fail-fast": "^2.0.0",
+    "protractor-helpers": "^1.1.0",
+    "protractor-jasmine2-html-reporter": "0.0.7",
+    "q": "^1.4.1"
+  }
+}

@@ -1,0 +1,24 @@
+# Shared between .npmignore and .gitignore
+
+chromedriver.log
+
+
+# Build artifacts
+Results/
+Results-Browserstack/
+Results-Local/
+built/
+node_modules/
+Bamboo_BrowserstackReport/
+Bamboo_LocalReport/
+
+/jasmine-results-new.json
+Bamboo_BrowserstackReport/localTestRunReport.html
+Bamboo_LocalReport/zReport.html
+local.log
+ptor-out.json
+retry.js
+Bamboo_LocalReport/BambooReport.html
+Bamboo_BrowserstackReport/browserStackReport.html
+userBrowserStackCredentials.json
+
